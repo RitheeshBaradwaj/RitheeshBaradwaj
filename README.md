@@ -16,5 +16,10 @@ To share my knowledge 💡 and get feedback 💬 from expertise, I started contr
 [![Medium](https://miro.medium.com/max/390/1*emiGsBgJu2KHWyjluhKXQw.png)](https://medium.com/@RitheeshBaradwaj)
 [![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://twitter.com/ritheeshyrb4)
 <br>
+<div align="center">
+
+![Hit counter](http://hits.dwyl.com/benbalter/benbalter/benbalter.svg)
+
+</div>
 ![Hit counter](https://hits.dwyl.com/RitheeshBaradwaj/RitheeshBaradwaj/RitheeshBaradwaj.svg)<br>
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width='300'>
