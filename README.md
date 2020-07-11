@@ -20,6 +20,6 @@ To share my knowledge 💡 and get feedback 💬 from expertise, I started contr
 
 ![Hit counter](http://hits.dwyl.com/benbalter/benbalter/benbalter.svg)
 
-</div>
 ![Hit counter](https://hits.dwyl.com/RitheeshBaradwaj/RitheeshBaradwaj/RitheeshBaradwaj.svg)<br>
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width='300'>
+</div>
