@@ -13,13 +13,12 @@ To share my knowledge 💡 and get feedback 💬 from expertise, I started contr
 - [Twitter](https://twitter.com/ritheeshyrb4)
 - [Personal site](https://ritheeshbaradwaj.github.io/) 
 [![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://www.linkedin.com/in/ritheesh-baradwaj-yellenki-8a6988173/)
-[![Medium](https://miro.medium.com/max/390/1*emiGsBgJu2KHWyjluhKXQw.png)](https://medium.com/@RitheeshBaradwaj)
+[![Medium](https://image.flaticon.com/icons/svg/2111/2111475.svg)](https://medium.com/@RitheeshBaradwaj)
 [![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://twitter.com/ritheeshyrb4)
 <br>
 <div align="center">
-
-![Hit counter](http://hits.dwyl.com/benbalter/benbalter/benbalter.svg)
-
 ![Hit counter](https://hits.dwyl.com/RitheeshBaradwaj/RitheeshBaradwaj/RitheeshBaradwaj.svg)<br>
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width='300'>
+ <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width='300'>
 </div>
+
+
