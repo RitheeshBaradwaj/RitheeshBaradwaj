@@ -12,7 +12,7 @@ To share my knowledge 💡 and get feedback 💬 from expertise, I started contr
 - [Medium](https://medium.com/@RitheeshBaradwaj)
 - [Twitter](https://twitter.com/ritheeshyrb4)
 - [Personal site](https://ritheeshbaradwaj.github.io/) 
-[![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://www.linkedin.com/in/ritheesh-baradwaj-yellenki-8a6988173/)
+<a href=""https://www.linkedin.com/in/ritheesh-baradwaj-yellenki-8a6988173"><img src="https://f0.pngfuel.com/png/93/587/linkedin-logo-png-clip-art.png" width="60" height="50"></a>
 <a href="https://medium.com/@RitheeshBaradwaj"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="60" height="50"></a>
 [![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://twitter.com/ritheeshyrb4)
 <br>
