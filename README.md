@@ -10,8 +10,8 @@ To share my knowledge 💡 and get feedback 💬 from expertise, I started contr
 ## Get in touch 
 <a href="https://www.linkedin.com/in/ritheesh-baradwaj-yellenki-8a6988173"><img src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo.png" width="60" height="50"></a>
 <a href="https://medium.com/@RitheeshBaradwaj"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="60" height="55"></a>
-<a href="https://twitter.com/ritheeshyrb4"><img src="https://i.pinimg.com/236x/ea/bd/e0/eabde01759e682e029476e999109a45b--twitter-button-twitter-twitter.jpg" width="60" height="50"></a>
-<a href="https://ritheeshbaradwaj.github.io"><img src="https://raw.githubusercontent.com/RitheeshBaradwaj/RitheeshBaradwaj.github.io/master/images/profile-pic.JPG" width="70" height="80"></a>
+<a href="https://twitter.com/ritheeshyrb4"><img src="https://i.pinimg.com/236x/ea/bd/e0/eabde01759e682e029476e999109a45b--twitter-button-twitter-twitter.jpg" width="63" height="50"></a>
+<a href="https://ritheeshbaradwaj.github.io"><img src="https://thumbs.dreamstime.com/b/programmer-icon-vector-isolated-white-background-logo-concep-programmer-icon-vector-isolated-white-background-logo-concept-125792315.jpg" width="60" height="50"></a>
 
 <div align="center">
  
