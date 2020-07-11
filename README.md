@@ -13,9 +13,9 @@ To share my knowledge 💡 and get feedback 💬 from expertise, I started contr
 - [Twitter](https://twitter.com/ritheeshyrb4)
 - [Personal site](https://ritheeshbaradwaj.github.io/) 
 <a href="https://www.linkedin.com/in/ritheesh-baradwaj-yellenki-8a6988173"><img src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo.png" width="60" height="50"></a>
-<a href="https://medium.com/@RitheeshBaradwaj"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="60" height="50"></a>
+<a href="https://medium.com/@RitheeshBaradwaj"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="60" height="53"></a>
 <a href="https://twitter.com/ritheeshyrb4"><img src="https://i.pinimg.com/236x/ea/bd/e0/eabde01759e682e029476e999109a45b--twitter-button-twitter-twitter.jpg" width="60" height="50"></a>
-<a href="https://ritheeshbaradwaj.github.io"><img src=https://avatars0.githubusercontent.com/u/48406715?s=400&u=96b82b2798aa96430fabf803c023b8d2cc89301d&v=4" width="60" height="50"></a>
+<a href="https://ritheeshbaradwaj.github.io"><img src="https://avatars0.githubusercontent.com/u/48406715?s=400&u=96b82b2798aa96430fabf803c023b8d2cc89301d&v=4" width="60" height="50"></a>
 [![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://twitter.com/ritheeshyrb4)
 <br>
 <div align="center">
