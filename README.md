@@ -19,4 +19,7 @@ To share my knowledge 💡 and get feedback 💬 from expertise, I started contr
  <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width='300'>
 </div>
 
-
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=RitheeshBaradwaj&show_icons=true&theme=dracula&line_height=33&bg_color=506487&title_color=F19FAC">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RitheeshBaradwaj&hide_langs_below=12&theme=dracula&bg_color=506487&title_color=F19FAC">
+</p>
