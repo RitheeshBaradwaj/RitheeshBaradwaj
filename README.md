@@ -1,5 +1,5 @@
 # Ritheesh Baradwaj
-Hi there 👋, I'm Ritheesh, a tech enthusiast who is intrigued by new-age technologies like Machine Learning, Signal processing, DevOps, so I try to learn them and apply them in my projects 🔭. I'm also interested in AI and want to contribute my skills to automate the real-world problems for the betterment of Humanity. 🙌 I'm a huge nerd/geek, spends most of the time on projects 💕
+Hi there 👋, I'm Ritheesh, a tech enthusiast who is intrigued by new-age technologies like Machine Learning, Signal processing, DevOps, so I try to learn them and apply the concepts in my projects 🔭. I'm also interested in AI and want to contribute my skills to automate the real-world problems for the betterment of Humanity. 🙌 I'm a huge nerd/geek, spends most of the time on projects 💕
 
 ## My Articles
 To share my knowledge 💡 and get feedback 💬 from expertise, I started contributing my work through blogs on [Medium](https://medium.com/@RitheeshBaradwaj). Reach out my profile and provide your feedback 😄
