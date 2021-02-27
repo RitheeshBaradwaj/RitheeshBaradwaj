@@ -8,7 +8,9 @@ To share my knowledge and get feedback from expertise, I started contributing my
  I always belive in <i>Learning Together</i>. Created an GitHub organization [Developers Cosmos](https://github.com/developers-cosmos), where we share information regarding new tech stack and build interesting projects which can be used in our day to day lives. My love for learning never stops, I wanted to stabalize myself as an individual in any domain that I am working on. The projects that I intend to make are the things that make me want to wake up in the morning. If I'm too much in my head, feel free to nudge me to share what's in my brain 🙌.
 
 ## Get in touch 
-<a href="https://www.linkedin.com/in/ritheesh-baradwaj-yellenki-8a6988173"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" width="60" height="50"></a>  <a href="https://medium.com/@RitheeshBaradwaj"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="60" height="53"></a>  <a href="https://twitter.com/ritheeshyrb4"><img src="https://i.pinimg.com/236x/ea/bd/e0/eabde01759e682e029476e999109a45b--twitter-button-twitter-twitter.jpg" width="63" height="50"></a>  <a href="https://ritheeshbaradwaj.github.io"><img src="https://thumbs.dreamstime.com/b/programmer-icon-vector-isolated-white-background-logo-concep-programmer-icon-vector-isolated-white-background-logo-concept-125792315.jpg" width="60" height="50"></a>
+<a href="https://www.linkedin.com/in/ritheesh-baradwaj-yellenki-8a6988173"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" width="60" height="50"></a>
+<a href="https://medium.com/@RitheeshBaradwaj"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="60" height="53"></a>
+<a href="https://ritheeshbaradwaj.github.io"><img src="https://thumbs.dreamstime.com/b/programmer-icon-vector-isolated-white-background-logo-concep-programmer-icon-vector-isolated-white-background-logo-concept-125792315.jpg" width="60" height="50"></a>
 
 <div align="center">
  
